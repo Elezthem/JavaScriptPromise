@@ -1,0 +1,2 @@
+# JavaScriptPromise
+getData
